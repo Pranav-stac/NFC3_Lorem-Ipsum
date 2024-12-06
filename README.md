@@ -1,7 +1,7 @@
 
-# 🚨 Human Trafficking Detection, Prevention & Support System 🚨
+# 🚨 Women Safety Detection, Prevention & Support System 🚨
 
-Welcome to the **Human Trafficking Detection, Prevention & Support System**! This project leverages AI/ML models, Django, and mobile technology to detect violent activities, provide alerts, and help individuals in distress. The system includes an admin dashboard for monitoring and a mobile app for safety and navigation.
+Welcome to the **Women Safety Detection, Prevention & Support System**! This project leverages AI/ML models, Django, and mobile technology to detect violent activities, provide alerts, and help individuals in distress. The system includes an admin dashboard for monitoring and a mobile app for safety and navigation.
 
 ---
 
